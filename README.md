@@ -64,13 +64,13 @@ Of course this is only an example to get one potential workflow running and can 
 
 ## Infineon Team
 
-<img src="./img/julian.png" alt="Julian" height="150"/>
-
 **Eric** (Embedded Systems Engineer)
 
-<img src="./img/julian.png" alt="Julian" height="150"/>
+<img src="./img/eric.png" alt="Eric" height="150"/>
 
 **Julian** (Staff Embedded Systems Engineer)
+
+<img src="./img/julian.png" alt="Julian" height="150"/>
 
 ### How to reach us?
 Please [open an issue](https://github.com/Infineon/hackathon/issues) in this repository to ask your questions or talk to us at the location :)

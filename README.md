@@ -2,8 +2,6 @@
 
 # Improving Customer Experience with Generative AI
 
-:information_source: **Please check [here](./submission) for details about the project submission.**
-
 ## Running the Example
 
 ### Preparation
@@ -65,6 +63,9 @@ Of course this is only an example to get one potential workflow running and can 
 
 ## Useful Links
 * [Infineon Developer Community](https://community.infineon.com/)
+
+## Project Submission
+:information_source: **Details about submission and deliverables will follow here, soon.**
 
 ## Infineon Team
 

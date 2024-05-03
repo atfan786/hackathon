@@ -2,6 +2,9 @@
 
 # Improving Customer Experience with Generative AI
 
+## Hackathon Material
+* [Challenge Introduction Slides](./challenge_introduction.pdf)
+
 ## Running the Example
 
 ### Preparation
@@ -57,12 +60,9 @@ Urgency level: 3 (somewhat urgent)
 
 Of course this is only an example to get one potential workflow running and can still output complete trash - doing it better is your task :)
 
-## Hackathon Material
-* [Challenge Introduction Slides](./challenge_introduction.pdf)
-* [GitHub issues in Pickle format](./examples/github_issues.pkl)
-
 ## Useful Links
 * [Infineon Developer Community](https://community.infineon.com/)
+* [GitHub issues in Pickle format](./examples/github_issues.pkl)
 
 ## Project Submission
 :information_source: **Details about submission and deliverables will follow here, soon.**

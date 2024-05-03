@@ -13,7 +13,7 @@
 Please start by installing [Python](https://www.python.org/) and [Pip](https://pypi.org/project/pip/).
 
 #### Windows specific
-On Windows you will also have to install [Visual Studio build tools](https://visualstudio.microsoft.com/de/downloads/?q=build+tools) with CMAKE support as shown in the picture:
+On Windows you will also have to install [Visual Studio build tools](https://visualstudio.microsoft.com/de/downloads/?q=build+tools#build-tools-for-visual-studio-2022) with CMAKE support as shown in the picture:
 <img src="./img/windows_installation.png" alt="build tools cmake support selections" height="400"/>
 
 Now you can install the required Python package for working with LLAMA2:

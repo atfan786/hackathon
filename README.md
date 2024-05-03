@@ -10,6 +10,10 @@
 
 Please start by installing [Python](https://www.python.org/) and [Pip](https://pypi.org/project/pip/).
 
+#### Windows specific
+On Windows you will also have to install [Visual Studio build tools](https://visualstudio.microsoft.com/de/downloads/?q=build+tools) with CMAKE support as shown in the picture:
+<img src="./img/windows_installation.png" alt="build tools cmake support selections" height="400"/>
+
 Now you can install the required Python package for working with LLAMA2:
 ```
 pip install llama-cpp-python
@@ -29,7 +33,7 @@ cd examples
 
 ### Run the example
 
-You can run the LLMA example with this command:
+Download the `llama-2-7b-chat.Q5_K_M.gguf` LLAMA model (or another one of your choice) e.g. from [here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) and type this command to run the example:
 ```
 python llama_example.py
 ```

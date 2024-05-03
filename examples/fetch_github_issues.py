@@ -30,20 +30,20 @@ def main():
             if issue.pull_request == None: issue_type = 'issue'
             else: issue_type = 'pull-request'
             issue_data = {
-                'id': [issue.id],
-                'title': [issue.title],
-                'repo_name': [repo.name],
+                'id': [str(issue.id)],
+                'title': [str(issue.title)],
+                'repo_name': [str(repo.name)],
                 'pr': [issue_type],
-                'state': [issue.state],
+                'state': [str(issue.state)],
                 'created': [issue.created_at],
                 'updated': [issue.updated_at],
-                'body': [issue.body],
-                'user_login': [issue.user.login],
-                'url': [issue.url],
+                'body': [str(issue.body)],
+                'user_login': [str(issue.user.login)],
+                'url': [str(issue.url)],
                 'comments': [issue.comments],
-                'user_type': [issue.user.type],
-                'labels': [issue.labels],
-                'assignees': [issue.assignees]
+                'user_type': [str(issue.user.type)],
+                'labels': [[str(x) for x in issue.labels]],
+                'assignees': [[str(x) for x in issue.assignees]]
             }
             df = pd.concat([
                 df, 

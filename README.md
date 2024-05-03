@@ -4,6 +4,7 @@
 
 ## Hackathon Material
 * [Challenge Introduction Slides](./challenge_introduction.pdf)
+* [Generative AI Introduction Slides](./infineon_genai_introduction.pdf)
 
 ## Running the Example
 

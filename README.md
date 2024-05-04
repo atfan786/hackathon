@@ -2,6 +2,9 @@
 
 # Improving Customer Experience with Generative AI
 
+## Project Submission
+:information_source: **You can find all details about the project submission [here](./SUBMISSION.md)**
+
 ## Hackathon Material
 * [Challenge Introduction Slides](./challenge_introduction.pdf)
 * [Generative AI Introduction Slides](./infineon_genai_introduction.pdf)
@@ -64,9 +67,6 @@ Of course this is only an example to get one potential workflow running and can 
 ## Useful Links
 * [Infineon Developer Community](https://community.infineon.com/)
 * [GitHub issues in Pickle format](./examples/github_issues.pkl)
-
-## Project Submission
-:information_source: **Details about submission and deliverables will follow here, soon.**
 
 ## Infineon Team
 

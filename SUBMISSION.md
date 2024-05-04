@@ -32,7 +32,7 @@ Please create a short demonstration video of your project for us. It can be only
 Please provide feedback for us. What did you like about the challenge? What should be improved? What would you do differently next time? This is optional, but can get you additional score.
 
 ## How to submit?
-You will receive an individual upload link for your team from EESTEC. Please upload the demo video to this link. Your code and article you can either also upload there (as ZIP) or push to a private GitHub repo. If you choose the second approach please invite @ederjc to the private repo.
+You will receive an individual upload link for your team from EESTEC. Please upload the demo video to this link. Your code and article you can either also upload there (as ZIP) or push to a private GitHub repo. If you choose the second approach please invite [@ederjc](https://www.github.com/ederjc) to the private repo.
 
 ## When to submit?
 Submission needs to happen before **Sunday, 05.05.2024, 23:59 CET**. Submissions after this time cannot be counted.
